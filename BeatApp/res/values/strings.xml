@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BeatApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="trumpet">Trumpet</string><string name="bass">Bass</string>
+    
+    <string name="beat">Beat</string>
+    <string name="claps">Claps</string>
+    <string name="xylophone">Xylophone</string>
+    <string name="crash">Crash</string>
+    <string name="playBeat">Play Beat</string>
+
+</resources>
